@@ -134,9 +134,6 @@
     src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&amp;logo=Vercel&amp;logoColor=white" 
     alt="vercel">
   <img 
-    src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&amp;logo=heroku&amp;logoColor=white" 
-    alt="heroku">
-  <img 
     src="https://img.shields.io/badge/Netlify-30C8C9?style=for-the-badge&amp;logo=netlify&amp;logoColor=white" 
     alt="Netlify">
   <img 
@@ -153,13 +150,6 @@
   <img 
     src="https://img.shields.io/badge/Jest-94404D?style=for-the-badge&amp;logo=jest&amp;logoColor=white" 
     alt="jest">
-  <img 
-    src="https://img.shields.io/badge/Cypress-23272C?style=for-the-badge&amp;logo=cypress&amp;logoColor=white" 
-    alt="jest">
-   <img 
-    src="https://img.shields.io/badge/testing library-ffffff?style=for-the-badge&amp;logo=testinglibrary&amp;logoColor=#F5403F" 
-    alt="testing-library"> 
-</div>
 
 ---
 
