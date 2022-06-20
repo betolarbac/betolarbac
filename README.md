@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Roberto Cabral</h1>
+<h1 align="left">Hi, I'm Roberto Cabral</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=betolarbac&color=yellow" alt="Profile views" /> </p>
 
 <div>
