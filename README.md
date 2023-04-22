@@ -17,16 +17,16 @@
   </h3>
   <br />
   
-  <a href="mailto:robertojr1799@gmail.com">
+  <a href="mailto:robertojr1799@gmail.com" target="_blank">
     <img 
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=Gmail&amp;logoColor=white" alt="gmail">
   </a>
-  <a href="https://www.instagram.com/vraubeto/">
+  <a href="https://www.instagram.com/betocbl/" target="_blank">
     <img 
       src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" 
       alt="instagram">
   </a>
-  <a href="https://www.linkedin.com/in/roberto-larbac/">
+  <a href="https://www.linkedin.com/in/roberto-larbac/" target="_blank">
     <img 
       src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&amp;logo=LinkedIn&amp;logoColor=white" 
       alt="linked-in">
