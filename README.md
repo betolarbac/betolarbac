@@ -45,7 +45,7 @@
     <li>📌 I live in Maceio-AL.</li><br/>
     <li>🔭 I'm currently a front-end development student, passionate about front-end technologies and delighted with the power of programming.</li><br/>
     <li>🌱 I’m going deeper into HTML5, CSS3 and JavaScript.</li><br/>
-    <li>🤓 I'm learning front-end development with technologies: React.js, Next.js, TypeScript, Styled-Components, Sass, CSS-modules, Prismic CMS, Chakra-UI, Jest, Test library, Performance, Deployment strategy, GraphQL, Apollo, Strapi CMS, Cypress, Design Patterns, SOLID, Clean Code.</li><br/>
+    <li>🤓 I'm learning front-end development with technologies: React.js, Next.js, TypeScript, Styled-Components, Sass, CSS-modules, Prismic CMS, Chakra-UI, Jest, Test library, Performance, Deployment strategy, GraphQL, SOLID, Clean Code.</li><br/>
     <!-- <li>💬 Ask me about HTML5 and CSS3.</li> -->
     <li>🇺🇸 learning english to achieve fluency.</li><br/>
     <li>🤔 I'm looking to help with open source projects.</li><br/>
@@ -97,18 +97,14 @@
     src="https://img.shields.io/badge/React-0D0627?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" 
     alt="react">
   <img 
-    src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" 
-    alt="typescript">
-  <img 
     src="https://img.shields.io/badge/Next-000000?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=FFFFFF" 
     alt="next">
   <img 
+    src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" 
+    alt="typescript">
+  <img 
     src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&amp;logo=react-router&amp;logoColor=white" 
     alt="react-router">
-  <img 
-    src="https://img.shields.io/badge/styled_components-DB7093?style=for-the-badge&amp;logo=styled-components&amp;logoColor=white" 
-    alt="styled-components">
-  
   <img 
     src="https://img.shields.io/badge/Sass-CF649A?style=for-the-badge&amp;logo=sass&amp;logoColor=white" 
     alt="sass">
@@ -119,6 +115,26 @@
     src="https://img.shields.io/badge/BootStrap-6E42A2?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" 
     alt="bootstrap">
 
+</div>
+
+---
+
+<!--*************** Back-end ***************-->
+
+<h3>👨🏿‍💻 Back-end</h3>
+<div>
+  <img 
+    src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" 
+    alt="node">
+  <img 
+    src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" 
+    alt="express">
+  <img 
+    src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" 
+    alt="php">
+  <img 
+    src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" 
+    alt="laravel">
 </div>
 
 ---
