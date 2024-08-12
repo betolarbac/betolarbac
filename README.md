@@ -15,8 +15,8 @@
 <div align="left">
   
   <br>
- <div align="left">
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=betolarbac&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=betolarbac&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+   <div align="left">
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=betolarbac&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats" />
+      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=betolarbac&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+  </div>
 </div>
- </div>
